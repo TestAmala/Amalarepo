@@ -83,6 +83,7 @@
 									</scriptVariables>
 									<settingsFile>src/it/settings.xml</settingsFile>
   		  </configuration>
+			  <packaging>war</packaging>
 		 </plugin>
 		<plugin>
 		  <groupId>org.apache.maven.plugins</groupId>
